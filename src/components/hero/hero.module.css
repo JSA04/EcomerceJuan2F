@@ -1,0 +1,48 @@
+.hero {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 82px;
+    margin-bottom: 82px;
+    gap: 85px;
+}
+
+.imgphone{
+    width: 80%;
+}
+
+.cards{
+    display: flex;
+    gap: 30px;
+}
+
+.sectionTime{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 50px;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+
+.section{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.cardsicons{
+    display: flex;
+    gap: 50px;
+}
+
+.topics{
+    display: flex;
+    gap: 100px;
+    margin-top: -150px;
+    margin-bottom: 150px;
+}

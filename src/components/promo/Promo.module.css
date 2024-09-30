@@ -1,0 +1,24 @@
+a:link{
+    color: white
+}
+
+a:visited{
+    color: white
+}
+
+a:hover{
+    color: white
+}
+
+a:active{
+    color: white
+}
+
+.fundo{
+background-color: #000;
+height: 48px;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}

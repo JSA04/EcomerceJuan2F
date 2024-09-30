@@ -1,0 +1,40 @@
+.footer{
+    background-color: black;
+    width: 100%;
+    height: fit-content;
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.geral{
+    color: white;
+    width: 200px;
+    size: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.title{
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.subtitle{
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.text{
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}

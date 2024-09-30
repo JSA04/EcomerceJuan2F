@@ -1,0 +1,16 @@
+.botton{
+    background-color: #DB4444;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: fit-content;
+    border-radius: 5px;
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
